@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
       localStorage.setItem('codeVerifier', codeVerifier);
 
       // Укажите ваш redirect_uri, зарегистрированный в Google Console
-      const redirectUri = 'https://gregmos.github.io/';
+      const redirectUri = 'https://iver15.github.io/';
 
       const params = new URLSearchParams({
         client_id: '996490842675-mb6q3m8soslr6i5jr52t6p2f1oaur4et.apps.googleusercontent.com',
